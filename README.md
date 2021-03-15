@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Tanja.
 🌱 I’m currently learning JavaScript.
 Further details will be informed later. 😄
 <!--
