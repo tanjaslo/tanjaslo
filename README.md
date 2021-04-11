@@ -4,7 +4,7 @@ Further details will be informed later. 😄
 
 Project | Description | Technologies
 --- | --- | ---
-[**Keksobooking**](https://tanjaslo.github.io/keksobooking/) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
+[**Keksobooking**](https://tanjaslo.github.io/keksobooking/){:target="_blank"} | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
 
 <!--
 **tanjaslo/tanjaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 https://github.com/sandino/Markdown-Cheatsheet/blob/master/README.md#images
 -->
