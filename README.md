@@ -5,7 +5,7 @@ Further details will be informed later. 😄
 Project | Description | Technologies
 --- | --- | ---
 [**Keksobooking**](https://tanjaslo.github.io/keksobooking/) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
---- | --- | ---
+ |  | 
 [**Big Trip**](https://htmlacademy-ecmascript.github.io/1621659-big-trip-14/17/) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `Vanilla JavaScript (ES6). MVP. REST API.`
 
 <!--
