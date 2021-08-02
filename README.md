@@ -6,7 +6,7 @@ Project | Description | Technologies
 --- | --- | ---
 [**Keksobooking**](https://github.com/tanjaslo/1621659-keksobooking-22) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
  |  | 
-[**Big Trip**](https://github.com/tanjaslo/1621659-big-trip-14/17/) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `Vanilla JavaScript (ES6). MVP. REST API.`
+[**Big Trip**](https://github.com/tanjaslo/1621659-big-trip-14) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `Vanilla JavaScript (ES6). MVP. REST API.`
 
 <!--
 **tanjaslo/tanjaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
