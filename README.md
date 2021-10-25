@@ -8,7 +8,8 @@ Project | Description | Technologies
  |  | 
 [**Big Trip**](https://github.com/tanjaslo/1621659-big-trip-14) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `Vanilla JavaScript (ES6). MVP. REST API.`
  |  | 
-[**Six Cities**](https://github.com/tanjaslo/1621659-six-cities-7) | *Personal project (HTML Academy).* | `SPA on React.js. CRA, Redux, Fetch API, Jest, React Testing Library, Webpack.`
+**Six Cities**: [DEMO](https://1621659-six-cities-7.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-six-cities-7)
+![Six Cities](https://github.com/tanjaslo/tanjaslo/blob/main/images/six-cities.png?raw=true) | *Personal project (HTML Academy).* | `SPA on React.js. CRA, Redux, Fetch API, Jest, React Testing Library, Webpack.`
 
 <!--
 **tanjaslo/tanjaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
