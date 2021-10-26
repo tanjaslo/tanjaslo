@@ -4,7 +4,8 @@ Further details will be informed later. 😄
 
 Project | Description | Technologies
 --- | --- | ---
-[**Keksobooking**](https://github.com/tanjaslo/1621659-keksobooking-22) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
+**Keksobooking**: [DEMO](https://1621659-keksobooking-22.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-keksobooking-22)
+![Keksobooking](https://github.com/tanjaslo/tanjaslo/blob/main/images/keksobooking.png?raw=true) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
  |  | 
 **Big Trip**: [DEMO](https://1621659-big-trip-14.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-big-trip-14)
 ![Big Trip](https://github.com/tanjaslo/tanjaslo/blob/main/images/big-trip.png?raw=true) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `Vanilla JavaScript (ES6). MVP. REST API, Moment.js, flatpickr, Chart.js.`
