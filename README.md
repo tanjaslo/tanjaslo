@@ -4,7 +4,7 @@ Further details will be informed later. 😄
 
 Project | Description | Technologies
 --- | --- | ---
-**Six Cities**: [DEMO](https://1621659-six-cities-7.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-six-cities-7)
+**Six Cities**: [DEMO](https://six-cities-7.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-six-cities-7)
 ![Six Cities](https://github.com/tanjaslo/tanjaslo/blob/main/images/six-cities.png?raw=true) | *Personal project (HTML Academy). Six popular cities to choose for travel and get actual offers of the list on rent. Detailed information about housing, showing objects on the interactive map. Ability to log in, add to favourites, comment and add rating. Desktop version only.* | `SPA on React.js. CRA, Redux, Redux-Thunk, Jest, Axios, Reselect, Leaflet.`
  |  | 
 **Big Trip**: [DEMO](https://1621659-big-trip-14.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-big-trip-14)
