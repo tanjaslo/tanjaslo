@@ -6,7 +6,7 @@ Project | Description | Technologies
 --- | --- | ---
 **Six Cities**: [DEMO](https://six-cities-7.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-six-cities-7) | *Personal project (HTML Academy). Six popular cities to choose for travel and get actual offers of the list on rent. Detailed information about housing, showing objects on the interactive map. Ability to log in, add to favourites, comment and add rating. Desktop version only.* | `SPA on React.js. CRA, Redux, Redux-Thunk, Axios, Reselect, Jest.`
  |  | 
-**Big Trip**: [DEMO](https://1621659-big-trip-14.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-big-trip-14) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `MVP on JavaScript (ES6). REST API. Moment.js, flatpickr, Chart.js.`
+**Big Trip**: [DEMO](https://big-trip-14.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-big-trip-14) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `MVP on JavaScript (ES6). REST API. Moment.js, flatpickr, Chart.js.`
  |  |
 **Keksobooking**: [DEMO](https://keksobooking-22.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-keksobooking-22) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
  |  | 
