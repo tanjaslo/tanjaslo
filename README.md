@@ -1,23 +1,26 @@
 ### Welcome to my GitHub page! 👋 
+My name is Tanja. I'm a Frontend Developer based in Ljubljana.
 
-My name is Tanja.
-About a year ago I have decided to change careers and become a Frontend Developer.
-In January 2021 I started my intense study and practice.
+🛠 **My tech stack:**<br/>
+Responsive web development: HTML5, CSS/SASS;<br/>
+Vanilla JavaScript and JS libraries such as React, Redux;<br/>
+Testing libraries: React Testing Library, Jest;<br/>
+Code bundlers: Gulp, Webpack;<br/>
+UX/UI: Figma.
 
-My values:
+👩🏻‍🎓 **Currently learning**:<br/>
+TypeScript.
 
-🤓 Permanent learning and development.
-
-💪 Self-growth and perseverance will lead to achievements.
-
-🗝️ Communication is crucial.
-
-⏳ It's never to late to start.
+**My values:**<br/>
+💡 Permanent learning and development. <br/>
+💪 Self-growth and perseverance will lead to achievements. <br/>
+🗝️ Communication is crucial. <br/>
+⏳ It's never to late to start.<br/>
 
 ♥️ I am pretty sure that real success can be achieved only in the area that sparks genuine interest in you.
 🥳 I’m a positive thinker and 🤝 reliable partner.
 
-Thanks for taking the time to go over my summary and if you'd like to see some of my work check out my portfolio:
+Thanks for taking the time to go over my summary and here you can check out my projects:
 
 Project | Description | Technologies
 --- | --- | ---
