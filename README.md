@@ -1,9 +1,28 @@
-### Hi there 👋 My name is Tanja.
-🌱 I’m currently learning JavaScript & React.
-Further details will be informed later. 😄
+### Welcome to my GitHub page! 👋 
+
+My name is Tanja.
+About a year ago I have decided to change careers and become a Frontend Developer.
+In January 2021 I started my intense study and practice.
+
+My values:
+
+🤓 Permanent learning and development.
+
+💪 Self-growth and perseverance will lead to achievements.
+
+🗝️ Communication is crucial.
+
+⏳ It's never to late to start.
+
+♥️ I am pretty sure that real success can be achieved only in the area that sparks genuine interest in you.
+🥳 I’m a positive thinker and 🤝 reliable partner.
+
+Thanks for taking the time to go over my summary and if you'd like to see some of my work check out my portfolio:
 
 Project | Description | Technologies
 --- | --- | ---
+**What To Watch**: [REPO](https://github.com/tanjaslo/what-to-watch) | *Personal project (currently working on it). Online cinema.* | `React.js with TypeScript, Redux/RTK, Axios.`
+ |  | 
 **Six Cities**: [DEMO](https://six-cities-7.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-six-cities-7) | *Personal project (HTML Academy). Six popular cities to choose for travel and get actual offers of the list on rent. Detailed information about housing, showing objects on the interactive map. Ability to log in, add to favourites, comment and add rating. Desktop version only.* | `SPA on React.js. CRA, Redux, Redux-Thunk, Axios, Reselect, Jest.`
  |  | 
 **Big Trip**: [DEMO](https://big-trip-14.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-big-trip-14) | *Personal project (HTML Academy). Single Page Application. The service helps to plan in detail the route of the trip, calculate the cost of the trip and get information about the sights.* | `MVP on JavaScript (ES6). REST API. Moment.js, flatpickr, Chart.js.`
