@@ -32,6 +32,8 @@ Project | Description | Technologies
  |  |
 **Keksobooking**: [DEMO](https://keksobooking-22.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-keksobooking-22) | *Personal project (HTML Academy). Ad posting service. Interactive pins on the map with the received data. Form for adding ads with validation. Sorting and filtration.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
  |  | 
+**Keksogram**: [DEMO](https://tanjaslo.github.io/keksogram) / [REPO](https://github.com/tanjaslo/keksogram) | *Photo sharing and editing service. Uploading a custom image. User can scale the image, apply different filters and change saturation. Validation of hashtags. Ability to filter and sort photos.* | `Vanilla JavaScript (ES6). Fetch API. Leaflet JS library for interactive map.`
+ |  | 
 **Cat Energy**: [DEMO](https://tanjaslo.github.io/1621659-cat-energy-23/) / [REPO](https://github.com/tanjaslo/1621659-cat-energy-23) | *Adaptive website with catalogue, interactive map, form. Used CSS preprocessor Sass, task runner Gulp, Flex and Grid Layouts. Retina graphics.* | `HTML/CSS. BEM metodology. Sass. Gulp.`
 
 <!--
