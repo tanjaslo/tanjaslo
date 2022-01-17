@@ -24,7 +24,7 @@ Thanks for taking the time to go over my summary and here you can check out my p
 
 Project | Description | Technologies
 --- | --- | ---
-**What To Watch**: [REPO](https://github.com/tanjaslo/what-to-watch) | *Personal project (currently working on it). Online cinema.* | `React.js with TypeScript, Redux/RTK, Axios.`
+**What To Watch**: [DEMO](https://what-to-watch-tanjaslo.vercel.app) / [REPO](https://github.com/tanjaslo/what-to-watch) | *Personal project (currently working on it). Online cinema.* | `React.js with TypeScript, Redux/RTK, Axios.`
  |  | 
 **Six Cities**: [DEMO](https://six-cities-7.vercel.app/) / [REPO](https://github.com/tanjaslo/1621659-six-cities-7) | *Personal project (HTML Academy). Six popular cities to choose for travel and get actual offers of the list on rent. Detailed information about housing, showing objects on the interactive map. Ability to log in, add to favourites, comment and add rating. Desktop version only.* | `SPA on React.js. CRA, Redux, Redux-Thunk, Axios, Reselect, Jest.`
  |  | 
