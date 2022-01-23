@@ -2,7 +2,7 @@
 My name is Tanja. I'm a Frontend Developer based in Ljubljana.
 
 🛠 **My tech stack:**<br/>
-Responsive web development: HTML5, CSS/SASS;<br/>
+Responsive web development: HTML5, CSS/SCSS;<br/>
 Vanilla JavaScript and JS libraries such as React, Redux;<br/>
 Testing libraries: React Testing Library, Jest;<br/>
 Code bundlers: Gulp, Webpack;<br/>
