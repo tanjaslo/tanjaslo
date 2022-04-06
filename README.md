@@ -2,25 +2,21 @@
 My name is Tanja. I'm a Frontend Developer based in Ljubljana.
 
 🛠 **My tech stack:**<br/>
-Responsive web development: HTML5, CSS/SCSS;<br/>
-Vanilla JavaScript and JS libraries such as React, Redux;<br/>
-Testing libraries: React Testing Library, Jest;<br/>
-Code bundlers: Gulp, Webpack;<br/>
-UX/UI: Figma.
+HTML5, CSS/SCSS, Vanilla JavaScript, React, Gulp, Webpack, Figma;<br/>
+Basic: React Testing Library, Jest.
 
 👩🏻‍🎓 **Currently learning**:<br/>
-TypeScript.
+React, Redux, TypeScript.
 
 **My values:**<br/>
 💡 Permanent learning and development. <br/>
-💪 Self-growth and perseverance will lead to achievements. <br/>
+💪 Perseverance will lead to achievements. <br/>
 🗝️ Communication is crucial. <br/>
-⏳ It's never to late to start.<br/>
+⏳ It's never too late to start. <br/>
 
-♥️ I am pretty sure that real success can be achieved only in the area that sparks genuine interest in you.
 🥳 I’m a positive thinker and 🤝 reliable partner.
 
-Thanks for taking the time to go over my summary and here you can check out my projects:
+Here you can check out my learning projects:
 
 Project | Description | Technologies
 --- | --- | ---
