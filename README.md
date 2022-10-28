@@ -1,22 +1,13 @@
 ### Welcome to my GitHub page! 👋 
-My name is Tanja. I'm a Frontend Developer based in Ljubljana.
+My name is Tanja. I'm a Frontend Developer based in Ottawa, Canada.
 
 🛠 **My tech stack:**<br/>
-HTML5, CSS/SCSS, Vanilla JavaScript, React, Gulp, Webpack, Figma;<br/>
-Basic: React Testing Library, Jest.
+HTML, CSS (Sass/SCSS), JavaScript, React, Redux.
 
 👩🏻‍🎓 **Currently learning**:<br/>
-React, Redux, TypeScript.
+TypeScript, NextJS.
 
-**My values:**<br/>
-💡 Permanent learning and development. <br/>
-💪 Perseverance will lead to achievements. <br/>
-🗝️ Communication is crucial. <br/>
-⏳ It's never too late to start. <br/>
-
-🥳 I’m a positive thinker and 🤝 reliable partner.
-
-Here you can check out my learning projects:
+Here you can check out my projects:
 
 Project | Description | Technologies
 --- | --- | ---
