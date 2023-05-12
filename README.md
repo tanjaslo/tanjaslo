@@ -1,5 +1,5 @@
 ### Welcome to my GitHub page! 👋 
-My name is Tanja. I'm a Frontend Developer based in Ottawa, Canada.
+My name is Tanya. I'm a Frontend Developer based in Ottawa, Canada.
 
 🛠 **My tech stack:**<br/>
 HTML, CSS (Sass/SCSS), JavaScript, React, Redux.
