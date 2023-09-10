@@ -1,11 +1,4 @@
 ### Welcome to my GitHub page! 👋 
-My name is Tanya. I'm a Frontend Developer based in Ottawa, Canada.
-
-🛠 **My tech stack:**<br/>
-HTML, CSS (Sass/SCSS), JavaScript, React, Redux.
-
-👩🏻‍🎓 **Currently learning**:<br/>
-TypeScript, NextJS.
 
 Here you can check out my projects:
 
